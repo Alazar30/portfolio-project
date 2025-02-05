@@ -10,6 +10,6 @@ the following form: YYYY.0M.0D.
 
 ### Added
 
-- Designed a FPL (Fantasy Premier League) Data Tracker component.
-- Designed a Music Playlist Manager component.
-- Designed a To-Do List Manager component.
+- Brainstormed a FPL (Fantasy Premier League) Data Tracker component.
+- Brainstormed a Music Playlist Manager component.
+- Brainstormed a To-Do List Manager component.
