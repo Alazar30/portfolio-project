@@ -195,7 +195,7 @@ will likely refine your design to make your implementation easier to use.
   - **Secondary Methods**:
     - `String getPlayerStats(String name)`: Gets and returns the statistics for a given player as a string.
     - `String getTopScorers()`: Returns string of the top goal scorers.
-    - `String getBestPlayerByPosition(String position)`: Gets and returns the best plyers for a given position.
+    - `String getBestPlayerByPosition(String position)`: Gets and returns the best players for a given position.
   - **Additional Considerations** (_note_: "I don't know" is an acceptable
     answer for each of the following questions):
     - Would this component be mutable? Answer and explain:
