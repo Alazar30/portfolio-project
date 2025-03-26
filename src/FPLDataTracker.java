@@ -7,7 +7,8 @@ public interface FPLDataTracker extends FPLDataTrackerKernel {
     /**
      * Returns the player stats for a given player.
      *
-     * @param name the name of the player
+     * @param name
+     *            the name of the player
      * @return the statistics of the player
      * @requires name is in playerStats
      * @ensures getPlayerStats = playerStats[name]
@@ -15,26 +16,18 @@ public interface FPLDataTracker extends FPLDataTrackerKernel {
     Map<String, String> getPlayerStats(String name);
 
     /**
-     * Returns the top scorers in the league.
+     * Returns the top scorer in the league.
      *
-     * @return a map containing the top scorers and their statistics
-     * @ensures getTopScorers contains the highest-scoring players
+     * @return a map containing the top scorer and their statistics
+     * @ensures getTopScorer contains the highest-scoring player
      */
-    Map<String, String> getTopScorers();
+    Map<String, String> getTopScorer();
 
     /**
-     * Returns the top assisters in the league.
+     * Returns the top assister in the league.
      *
-     * @return a map containing the top assisters and their statistics
-     * @ensures getTopAssisters contains the players with the most assists
+     * @return a map containing the top assister and their statistics
+     * @ensures getTopAssister contains the player with the most assists
      */
-    Map<String, String> getTopAssisters();
-
-    /**
-     * Returns the best players by position.
-     *
-     * @return a map categorizing the best players by position
-     * @ensures getBestPlayersByPosition groups players based on their positions
-     */
-    Map<String, String> getBestPlayersByPosition();
+    Map<String, String> getTopAssister();
 }
