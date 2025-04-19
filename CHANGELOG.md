@@ -6,10 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Calendar Versioning](https://calver.org/) of
 the following form: YYYY.0M.0D.
 
-## 2025.02.03
+## 2025.04.18
 
 ### Added
 
-- Brainstormed a FPL (Fantasy Premier League) Data Tracker component.
-- Brainstormed a Music Playlist Manager component.
-- Brainstormed a To-Do List Manager component.
+- Designed test suite for FPLDataTracker component
+- Designed two different use cases for FPLDataTracker component
+
+### Updated
+
+- Changed design to include a consistent toString() method that formats output as a set of (PlayerName, Stats) pairs

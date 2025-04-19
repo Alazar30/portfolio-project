@@ -1,8 +1,8 @@
 # Portfolio Part 6: Finishing Touches
 
-- **Name**: <!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
-- **Dot Number**: <!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
-- **Due Date**: <!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
+- **Name**: Alazar Alemayehu<!-- TODO: fill with first and last name (e.g., Brutus Buckeye) and delete this comment -->
+- **Dot Number**: alemayehu.20<!-- TODO: fill with OSU dot number (e.g., buckeye.17) and delete this comment -->
+- **Due Date**: 04/18/2025 @ 11:59 PM EST<!-- TODO: fill out with due date and time (e.g., 10/17 @ 3:10 PM EST) and delete this comment -->
 
 ## Assignment Overview
 
@@ -49,8 +49,6 @@ Many of these additional techniques are somewhat out of the scope of this
 course, but just knowing about them could set you up for long term success.
 
 ## Assignment Checklist
-
-<!-- TODO: browse the checklist then delete this comment -->
 
 To be sure you have completed everything on this assignment, we have littered
 this document with TODO comments. You can browse all of them in VSCode by
@@ -140,8 +138,6 @@ merges, you will need to pull the changes from main into your current branch
 to see them. If you don't like this workflow, you may try following the
 rebase strategies described [here](https://stackoverflow.com/questions/35790561/working-while-waiting-for-pending-pr)
 and [here](https://stackoverflow.com/questions/18021888/continue-working-on-a-git-branch-after-making-a-pull-request).
-
-<!-- TODO: make a new branch from main then delete this comment -->
 
 ## Assignment Tasks
 
@@ -307,18 +303,18 @@ Take some time to fill them out honestly.
 > complete the portfolio project, how much better (or worse) do you think you
 > understand software development and why?
 
-<!-- TODO: discuss -->
+I think that I now understand sofware developmen more than I did at the start of the semester mainly because the portfolio project helped me see how data structures, inerfaces, and components fit together in real programs.
 
 > Also, did the portfolio project surface any gaps in your own knowledge of
 > software development. If so, what are those gaps and how did you address them?
 
-<!-- TODO: discuss -->
+Yes, the portfolio project specificlly helped my understnading of software devleopmen regarding the OSU component design. For example, I had trouobs with correcly seperating what belogned in the kernel with what shouldve been in the secondary methods. I fixed this by re-reading project specs, looking at the OSU compnentn design in the API, and asking questions.
 
 > Finally, as a part of completing the portfolio project, to what extent has
 > your perspective of software development changed, if at all? In other words,
 > is software development something you still enjoy? If not, why not?
 
-<!-- TODO: discuss -->
+Yes, software development is still something I enjoy. This is the case especially after completing the portfolio project since I got to mae something that matches my interests, soccer, and it is somehting that I would be able to continue happly out of my own interest moving forward.
 
 > One of the challenges of completing the portfolio project is picking up a lot
 > of skills on your own. Some of these skills are, of course, software skills.
@@ -326,25 +322,29 @@ Take some time to fill them out honestly.
 > this process. Therefore, the first question is what skills did you pick up
 > through this process?
 
-<!-- TODO: discuss -->
+The skills that I picked up include leanring how to design and test a real compoentnt from scratch, and also debugging and documenting code.
 
 > The follow-up question is: could you rephrase these skills you picked up
 > as bullet points that you could put on a resume? Try it below.
 
-<!-- TODO: discuss -->
+Implemented a Java-based soccer stats data tracker
+
+Developed and ran tests using JUnit
+
+Debugged, documented, and maintained object-oriented code in Java
 
 > Next, how has working on this project affected your career trajectory?
 > In other words, do you now hate the topic you picked? Or, are you even more
 > interested in it? Both outcomes are valuable to your personal development.
 
-<!-- TODO: discuss -->
+Working on this project has made me even more ineested in this topic, soccer stats, and also pursuing a software engineering path. I might also be more interested in statistics and data which might be something I explore more in the future.
 
 > Finally, consider the skills you've picked up and your current career
 > trajectory. What are some things you could do to continue on your
 > career trajectory? Also, who are some mentors you could contact to help
 > you stay on your path?
 
-<!-- TODO: discuss -->
+I can kep practicing wih personal projects and open-source contributions. As for personal projects, as I mentioned in the first step of this portfolio porject at the start of the semester, I was interested in making an FPL Lineup Optimizer which took in a bunch of plyer data and gave you the best playrs for your fantasy team that is "predicted" to get the most points each week. This felt like a big task so I didnt start it but now I think I can reasearch more into the tool that I need for a project like this and make a perosnal project based off of it. Lastly, I can aslo reach out to proferssors on campus for mentors I can contact, and also join student ords at OSU.
 
 ### Changelog
 
@@ -373,7 +373,6 @@ the following form: YYYY.0M.0D.
 ### Updated
 
 - Changed design to include ...
-
 ```
 
 Here `YYYY.MM.DD` would be the date of your submission, such as 2024.04.21.
