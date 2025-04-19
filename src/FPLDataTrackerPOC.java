@@ -8,7 +8,7 @@ import components.simplewriter.SimpleWriter1L;
  *
  * @author Alazar Alemayehu
  */
-public class FPLDataTracker {
+public class FPLDataTrackerPOC {
     /*
      * Private members --------------------------------------------------------
      */
@@ -34,7 +34,7 @@ public class FPLDataTracker {
     /**
      * No-argument Constructor.
      */
-    public FPLDataTracker() {
+    public FPLDataTrackerPOC() {
         this.createNewRep();
     }
 
@@ -143,7 +143,7 @@ public class FPLDataTracker {
     public static void main(String[] args) {
         SimpleWriter1L out = new SimpleWriter1L();
 
-        FPLDataTracker tracker = new FPLDataTracker();
+        FPLDataTrackerPOC tracker = new FPLDataTrackerPOC();
 
         Map<String, String> alazarStats = new Map1L<>();
         alazarStats.add("Goals", "10");
